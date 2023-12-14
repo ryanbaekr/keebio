@@ -1,3 +1,3 @@
 # keebio
 
-kicad symbols and footprints for the ProMicro, Elite-C, and Elite-Pi
+kicad symbols and footprints for the ProMicro, Elite-C, Elite-Pi, and Frood
